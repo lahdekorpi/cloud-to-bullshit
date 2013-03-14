@@ -1,4 +1,4 @@
-cloud-to-butt
+cloud-to-bullshit
 =============
 
 Chrome extension that replaces occurrences of 'cloud' with 'bullshit'
