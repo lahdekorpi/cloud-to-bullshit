@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt",
+	"name": "Cloud To bullshit",
 	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
+	"description": "Replaces the text 'cloud' with 'bullshit'.",
 	"content_scripts": 
 	[
 		{
