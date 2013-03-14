@@ -1,26 +1,17 @@
 cloud-to-butt
 =============
 
-Chrome extension that replaces occurrences of 'the cloud' with 'my butt'
+Chrome extension that replaces occurrences of 'cloud' with 'bullshit'
 
-[Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
-
-Screenshot Gallery
-------------------
-
-http://www.flickr.com/groups/cloud-to-butt/
+[Direct download of crx file](https://github.com/lahdekorpi/cloud-to-bullshit/blob/master/CloudToBullshit.crx?raw=true)
 
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
+In Chrome, choose Window > Extensions.  Drag CloudToBullshit.crx into the page that appears.
 
-Safari Version
+Original cloud-to-butt
 --------------
 
-Can be found here: https://github.com/logancollins/cloud-to-butt-safari
+This is a fork of https://github.com/panicsteve/cloud-to-butt
 
-Firefox Version
----------------
-
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-mozilla
