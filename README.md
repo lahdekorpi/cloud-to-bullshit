@@ -1,7 +1,7 @@
 cloud-to-bullshit
 =================
 
-Chrome extension that replaces occurrences of 'bullshit' with 'cloud'
+Chrome extension that replaces occurrences of 'cloud' with 'bullshit'
 
 [Direct download of crx file](https://github.com/lahdekorpi/bullshit-to-bullshit/blob/master/CloudToBullshit.crx?raw=true)
 
