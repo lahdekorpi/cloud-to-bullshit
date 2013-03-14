@@ -19,5 +19,10 @@ Screenshots
 -----------
 
 ![Rock Solid Bullshit](https://raw.github.com/lahdekorpi/cloud-to-bullshit/master/screenshots/rock-solid-bullshit.png)
+*Rock Solid Bullshit*
+
 ![Microsoft Private Bullshit Training](https://raw.github.com/lahdekorpi/cloud-to-bullshit/master/screenshots/private-bullshit-training.png)
+*Microsoft Private Bullshit Training*
+
 ![Ubuntu Bullshit](https://raw.github.com/lahdekorpi/cloud-to-bullshit/master/screenshots/Ubuntu-bullshit.png)
+*Ubuntu Bullshit*
